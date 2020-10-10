@@ -1,0 +1,16 @@
+1. 
+用记事本打开gs.sh, 修改gs.sh里的邮箱，用户名，仓库名
+
+2. 
+在github文件夹内右键，Git bash Here
+
+3. 
+启动赛风
+
+4.
+执行以下命令：
+chmod +x gs.sh;./gs.sh;
+
+5.
+执行以下命令:
+git push --set-upstream origin master;
